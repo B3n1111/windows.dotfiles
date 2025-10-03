@@ -1,2 +1,2 @@
-# .dotfiles
+# windows.dotfiles
 Sammlung meiner Konfigurationsdateien
